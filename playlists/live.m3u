@@ -1,0 +1,314 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="a84838c6-20f9-48d1-b60a-bcb0ca7563d2" tvg-name="--- FRANCE ---" tvg-logo="http://sltv-icon.cms-s.com/logo/flag/fr.png" x-item-type="channel" x-source="m3u", --- FRANCE ---
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/50326.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="tf1.fr" tvg-name="FR: TF1 FHD" tvg-logo="http://51.158.145.100/picons/logos/france/553959.png" x-item-type="channel" x-source="m3u", FR: TF1 FHD
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100870.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="tf1.fr" tvg-name="FR: TF1 HD" tvg-logo="http://51.158.145.100/picons/logos/france/553959.png" x-item-type="channel" x-source="m3u", FR: TF1 HD
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100837.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-name="FR: TF1 FHD (BACKUP)" tvg-logo="http://51.158.145.100/picons/logos/france/553959.png" x-item-type="channel" x-source="m3u", FR: TF1 FHD (BACKUP)
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/330666.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="france2.fr" tvg-name="FR: FRANCE 2 FHD" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/FRANCE2HD.png" x-item-type="channel" x-source="m3u", FR: FRANCE 2 FHD
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100838.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="france3.fr" tvg-name="FR: FRANCE 3 HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/FRANCE3HD.png" x-item-type="channel" x-source="m3u", FR: FRANCE 3 HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100839.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="france4.fr" tvg-name="FR: FRANCE 4 HEVC" tvg-logo="http://myserveriptv.com:2082/s:1:/images/mg9e4VnU5MiobcDarwnBscnKZqpwhhozb-r55QsHlwo.png" x-item-type="channel" x-source="m3u", FR: FRANCE 4 HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100840.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="france5.fr" tvg-name="FR: FRANCE 5 HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/FRANCE5HD.png" x-item-type="channel" x-source="m3u", FR: FRANCE 5 HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100841.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="cherie25.fr" tvg-name="FR: CHERIE 25 HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/CHERIE25.png" x-item-type="channel" x-source="m3u", FR: CHERIE 25 HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100843.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="bfmparis.fr" tvg-name="FR: BFM PARIS HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/BFM_Paris.png" x-item-type="channel" x-source="m3u", FR: BFM PARIS HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100844.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="museum.fr" tvg-name="FR: MUSEUM CHANNEL HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/Museum_ch.png" x-item-type="channel" x-source="m3u", FR: MUSEUM CHANNEL HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100846.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="ab1.fr" tvg-name="FR: AB1 HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/AB1.png" x-item-type="channel" x-source="m3u", FR: AB1 HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100893.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="animaux.fr" tvg-name="FR: ANIMAUX HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/ANIMAUXHD.png" x-item-type="channel" x-source="m3u", FR: ANIMAUX HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100848.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="idf1.fr" tvg-name="FR: IDF1 HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/idf1.png" x-item-type="channel" x-source="m3u", FR: IDF1 HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100849.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-name="FR: AB3 HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/AB3HD.png" x-item-type="channel" x-source="m3u", FR: AB3 HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100850.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="bfmtv.fr" tvg-name="FR: BFM TV HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/BFM.png" x-item-type="channel" x-source="m3u", FR: BFM TV HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100852.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="tmc.fr" tvg-name="FR: TMC HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/TMC.png" x-item-type="channel" x-source="m3u", FR: TMC HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100854.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="i24news.fr" tvg-name="FR: I24 NEWS HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/I24_official_logo.png" x-item-type="channel" x-source="m3u", FR: I24 NEWS HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100855.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="planeteplus.fr" tvg-name="FR: PLANETE+ HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/planete.png" x-item-type="channel" x-source="m3u", FR: PLANETE+ HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100858.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="toutehistoire.fr" tvg-name="FR: TOUTE L'HISTOIRE HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/TOUTE L'HISTOIRE.png" x-item-type="channel" x-source="m3u", FR: TOUTE L'HISTOIRE HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100860.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-name="FR: PLANETE+ A&E HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/planet-a-e.png" x-item-type="channel" x-source="m3u", FR: PLANETE+ A&E HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100861.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-name="FR: E! ENTERTAINMENT HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/e.png" x-item-type="channel" x-source="m3u", FR: E! ENTERTAINMENT HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100862.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="natgeowild.fr" tvg-name="FR: NAT GEO WILD HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/national_geo_wild.png" x-item-type="channel" x-source="m3u", FR: NAT GEO WILD HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100863.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="discoveryscience.fr" tvg-name="FR: DISCOVERY SCIENCE HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/discovery_science.png" x-item-type="channel" x-source="m3u", FR: DISCOVERY SCIENCE HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100864.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="13emerue.fr" tvg-name="FR: 13EME RUE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Logo_of_13e_Rue.png" x-item-type="channel" x-source="m3u", FR: 13EME RUE
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/150670.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-name="FR: DISCOVERY FAMILY HEVC" tvg-logo="http://www.megazap.fr/photo/art/grande/16626752-21361005.jpg?v=1503299487" x-item-type="channel" x-source="m3u", FR: DISCOVERY FAMILY HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100865.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="discoverychannel.fr" tvg-name="FR: DISCOVERY HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/turkeyT/discovery_channel.png" x-item-type="channel" x-source="m3u", FR: DISCOVERY HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100866.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="parispremiere.fr" tvg-name="FR: PARIS PREMIERE HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/PARISPREMIERE.png" x-item-type="channel" x-source="m3u", FR: PARIS PREMIERE HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100867.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="lci.fr" tvg-name="FR: LCI HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/La_Chaîne_Info_(logo).svg/1200px-La_Chaîne_Info_(logo).svg.png" x-item-type="channel" x-source="m3u", FR: LCI HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100868.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="franceinfo.fr" tvg-name="FR: FRANCE INFO HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/FRANCEINFOHD.png" x-item-type="channel" x-source="m3u", FR: FRANCE INFO HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100880.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="m6.fr" tvg-name="FR: M6 HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/M6HD.png" x-item-type="channel" x-source="m3u", FR: M6 HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100884.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-name="FR: M6 FHD (backup)" x-item-type="channel" x-source="m3u", FR: M6 FHD (backup)
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/277376.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="w9.fr" tvg-name="FR: W9 HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/W9.png" x-item-type="channel" x-source="m3u", FR: W9 HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100888.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-name="FR: LFM TV HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/lfmTv.png" x-item-type="channel" x-source="m3u", FR: LFM TV HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100890.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="cnews.fr" tvg-name="FR: CNEWS HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/CNEWS.png" x-item-type="channel" x-source="m3u", FR: CNEWS HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100899.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="euronews.fr" tvg-name="FR: EURONEWS HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/2021mixlogo/euronews.png" x-item-type="channel" x-source="m3u", FR: EURONEWS HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100900.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="rtl9.fr" tvg-name="FR: RTL 9 HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/RTL9.png" x-item-type="channel" x-source="m3u", FR: RTL 9 HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100902.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="tvbreizh.fr" tvg-name="FR: TV BREIZH HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/TVBREIZH.png" x-item-type="channel" x-source="m3u", FR: TV BREIZH HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100905.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="teva.fr" tvg-name="FR: TEVA HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/TEVAHD.png" x-item-type="channel" x-source="m3u", FR: TEVA HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100907.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="histoire.fr" tvg-name="FR: HISTOIRE HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/HISTOIREHD.png" x-item-type="channel" x-source="m3u", FR: HISTOIRE HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100908.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="gameone.fr" tvg-name="FR: GAME ONE HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/FRANCE/GAMEONEHD.png" x-item-type="channel" x-source="m3u", FR: GAME ONE HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100910.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="rmcdecouverte.fr" tvg-name="FR: RMC DECOUVERTE HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/RMCDECOUVERTE.png" x-item-type="channel" x-source="m3u", FR: RMC DECOUVERTE HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100911.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="gulli.fr" tvg-name="FR: GULLI HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/GULLI.png" x-item-type="channel" x-source="m3u", FR: GULLI HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100912.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="arte.fr" tvg-name="FR: ARTE HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/ARTE.png" x-item-type="channel" x-source="m3u", FR: ARTE HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100917.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="6ter.fr" tvg-name="FR: 6TER HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/6TER.png" x-item-type="channel" x-source="m3u", FR: 6TER HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100918.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="rmcstory.fr" tvg-name="FR: RMC STORY HEVC" tvg-logo="http://sltv-icon.cms-s.com/logo/franceT-220x132/RMCSTORY.png" x-item-type="channel" x-source="m3u", FR: RMC STORY HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100921.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="mezzolive.fr" tvg-name="FR: MEZZO LIVE HEVC" tvg-logo="http://51.158.145.100/picons/logos/france/845306.png" x-item-type="channel" x-source="m3u", FR: MEZZO LIVE HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100923.ts
+#EXTINF:-1 group-title="FR ✦ FRANCE" tvg-id="lequipe21.fr" tvg-name="FR: L'EQUIPE HEVC" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_L'Équipe_21.svg/2560px-Logo_L'Équipe_21.svg.png" x-item-type="channel" x-source="m3u", FR: L'EQUIPE HEVC
+http://103trkm25.xyz:8080/live/oguz35gznlr/gznler35oguz/100924.ts
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Thomas Ngijol - 2 (2015)" tvg-logo="https://image.tmdb.org/t/p/w400/2L138Sk1WKAgIxIzh0uKtrHQ1xy.jpg" x-item-type="channel" x-source="m3u", (FR) Thomas Ngijol - 2 (2015)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178709.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) The Legend of Zelda Concert 2018 Orchestra Selection (2019)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/AtiKzqpBb2yB2awL453bpQSypsd.jpg" x-item-type="channel" x-source="m3u", (FR) The Legend of Zelda Concert 2018 Orchestra Selection (2019)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178708.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) The Legend Of Zelda Concert 2018 (2019)" tvg-logo="https://image.tmdb.org/t/p/w400/AtiKzqpBb2yB2awL453bpQSypsd.jpg" x-item-type="channel" x-source="m3u", (FR) The Legend Of Zelda Concert 2018 (2019)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178707.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Shakira In Concert El Dorado World Tour (2019)" tvg-logo="https://image.tmdb.org/t/p/w400/tVhGl5mw6syF9gf5QCFVq42WVW4.jpg" x-item-type="channel" x-source="m3u", (FR) Shakira In Concert El Dorado World Tour (2019)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178706.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Shaka Ponk - Alcaline le Concert (2018)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/huQdKyCClCPstRveI30MK3ny2aC.jpg" x-item-type="channel" x-source="m3u", (FR) Shaka Ponk - Alcaline le Concert (2018)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178705.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Sexion d'assaut - le concert événement (2022)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ADBwlzJlMGsaVBZSX1pfC6R8RR.jpg" x-item-type="channel" x-source="m3u", (FR) Sexion d'assaut - le concert événement (2022)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178704.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Rage Against The Machine Democratic National Convention (2000)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zJN3hRgWr0fHwJnWu2TovX76Vv9.jpg" x-item-type="channel" x-source="m3u", (FR) Rage Against The Machine Democratic National Convention (2000)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178703.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Orelsan Concert Live Zenith (2012)" tvg-logo="https://bingeddata.s3.amazonaws.com/uploads/2021/01/orelsan-au-zenith-de-paris.jpg" x-item-type="channel" x-source="m3u", (FR) Orelsan Concert Live Zenith (2012)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178701.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Nawell Madani - C’est moi la plus belge! (2017)" tvg-logo="https://image.tmdb.org/t/p/w400/kMCwalSOKR2f1obZvDLffQpiPH3.jpg" x-item-type="channel" x-source="m3u", (FR) Nawell Madani - C’est moi la plus belge! (2017)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178699.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Mylène Farmer En Concert (1989)" tvg-logo="https://image.tmdb.org/t/p/w400/xluYjxrMkoQa3wmLBtQeFRASV8V.jpg" x-item-type="channel" x-source="m3u", (FR) Mylène Farmer En Concert (1989)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178698.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Michel Sardou - La dernière danse (2018)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nn4mmMnfM9TUVPcTpahPd67YCyV.jpg" x-item-type="channel" x-source="m3u", (FR) Michel Sardou - La dernière danse (2018)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178697.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Metallica - The All Within My Hands Helping Hands Concert & Auction (2020)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/mzEBNXDLFL58k4Lvu3VabpgPMnM.jpg" x-item-type="channel" x-source="m3u", (FR) Metallica - The All Within My Hands Helping Hands Concert & Auction (2020)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178696.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Marquis de Sade aux Vieilles Charrues (2018)" x-item-type="channel" x-source="m3u", (FR) Marquis de Sade aux Vieilles Charrues (2018)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178695.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Malik Bentalha se la raconte (2014)" tvg-logo="https://image.tmdb.org/t/p/w400/zmVuEFQrfvhKcAek5aB6yrQhu36.jpg" x-item-type="channel" x-source="m3u", (FR) Malik Bentalha se la raconte (2014)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178694.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Malik Bentalha Encore (2020)" tvg-logo="https://image.tmdb.org/t/p/w400/fRB9jIyCbr2oekoPlyBdQYOi2Un.jpg" x-item-type="channel" x-source="m3u", (FR) Malik Bentalha Encore (2020)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178693.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Le Saturday Night Live de Gad Elmaleh (2017)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7Gl5KVobeWS0gSgPQIMrTzb0iGD.jpg" x-item-type="channel" x-source="m3u", (FR) Le Saturday Night Live de Gad Elmaleh (2017)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178692.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Le Festival Hellfest 2019 (2019)" tvg-logo="https://image.tmdb.org/t/p/w400/iwo4IESLa3HwzFzqZroSdSidb66.jpg" x-item-type="channel" x-source="m3u", (FR) Le Festival Hellfest 2019 (2019)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178691.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Le Concert événement Paris La Défense Arena (2019)" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9IfmDNBjmcQZ33MucmEiGy8f51m.jpg" x-item-type="channel" x-source="m3u", (FR) Le Concert événement Paris La Défense Arena (2019)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178690.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Le Concert (2020)" x-item-type="channel" x-source="m3u", (FR) Le Concert (2020)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178689.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Lara Fabian En Toute Intimité (2007)" tvg-logo="https://image.tmdb.org/t/p/w400/oMl02fhSkkUTh68vRfYDCJsXbn7.jpg" x-item-type="channel" x-source="m3u", (FR) Lara Fabian En Toute Intimité (2007)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178688.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) L'Invitation (2021)" tvg-logo="https://image.tmdb.org/t/p/w400/aw9IPiYKo0X8xAbrnj5CPd1r0x4.jpg" x-item-type="channel" x-source="m3u", (FR) L'Invitation (2021)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178687.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) L'Abribus (2008)" tvg-logo="https://image.tmdb.org/t/p/w400/lKY7aaLd8sr69rSQQWa3nyMwBKy.jpg" x-item-type="channel" x-source="m3u", (FR) L'Abribus (2008)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178686.avi
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) KISS Goodbye On New Year’s Eve Full Concert (2020)" x-item-type="channel" x-source="m3u", (FR) KISS Goodbye On New Year’s Eve Full Concert (2020)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178685.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) John Williams The Berlin Concert (2021)" tvg-logo="https://image.tmdb.org/t/p/w400/srizH8J6YDBxpstvDP6H2s6qujf.jpg" x-item-type="channel" x-source="m3u", (FR) John Williams The Berlin Concert (2021)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178684.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Jean-Michel Jarre - Alone together (2020)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sB950FhEbj8YsL2P9LRhzE1kz2I.jpg" x-item-type="channel" x-source="m3u", (FR) Jean-Michel Jarre - Alone together (2020)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178683.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Jamel et ses amis au Marrakech du Rire 2019 (2019)" tvg-logo="https://image.tmdb.org/t/p/w400/4JkkyA5VKHjpQJbV1ZvgSf8DoBp.jpg" x-item-type="channel" x-source="m3u", (FR) Jamel et ses amis au Marrakech du Rire 2019 (2019)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178682.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Jamel et ses Amis au Marrakech du Rire 2018 (2018)" tvg-logo="https://image.tmdb.org/t/p/w400/5sHkikJAqIUHWQr56DuCFU8RlvV.jpg" x-item-type="channel" x-source="m3u", (FR) Jamel et ses Amis au Marrakech du Rire 2018 (2018)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178681.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Jamel et ses Amis au Marrakech du Rire 2017 (2017)" tvg-logo="https://image.tmdb.org/t/p/w400/lmma5r76zKs7dyUTv1JlssLwAlx.jpg" x-item-type="channel" x-source="m3u", (FR) Jamel et ses Amis au Marrakech du Rire 2017 (2017)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178680.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Jamel et ses Amis au Marrakech du Rire 2016 (2016)" tvg-logo="https://image.tmdb.org/t/p/w400/7NiFdAOmrqmVj58b8kFB3mkShW4.jpg" x-item-type="channel" x-source="m3u", (FR) Jamel et ses Amis au Marrakech du Rire 2016 (2016)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178679.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Jamel et ses Amis au Marrakech du Rire 2015 (2015)" tvg-logo="https://image.tmdb.org/t/p/w400/s6svPhNIitzbbvUGQ6eAe3tpGhJ.jpg" x-item-type="channel" x-source="m3u", (FR) Jamel et ses Amis au Marrakech du Rire 2015 (2015)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178678.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Jamel et ses Amis au Marrakech du Rire 2014 (2014)" tvg-logo="https://image.tmdb.org/t/p/w400/gPAYFF6bX8VQNU8B6DzPQiV1csy.jpg" x-item-type="channel" x-source="m3u", (FR) Jamel et ses Amis au Marrakech du Rire 2014 (2014)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178677.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Jamel et ses Amis au Marrakech du Rire 2013 (2013)" tvg-logo="https://image.tmdb.org/t/p/w400/s2I7Irvfz3JiutyjOA3HsyItYiK.jpg" x-item-type="channel" x-source="m3u", (FR) Jamel et ses Amis au Marrakech du Rire 2013 (2013)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178676.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Jacques Brel - Les Adieux à l'Olympia (1966)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/dDJjoWPb4hyLuqZ7IQQXFY86xgG.jpg" x-item-type="channel" x-source="m3u", (FR) Jacques Brel - Les Adieux à l'Olympia (1966)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178675.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Indochine - Black City Concert - Stade de France 2014 (2014)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/sIcgMMt5P3grsFpgrXmBavB68sJ.jpg" x-item-type="channel" x-source="m3u", (FR) Indochine - Black City Concert - Stade de France 2014 (2014)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178673.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Gims - Destination Stade de France (2019)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4opDmAOpfInc4LtFFb2a1bRFCil.jpg" x-item-type="channel" x-source="m3u", (FR) Gims - Destination Stade de France (2019)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178672.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Gad Elmaleh American Dream (2018)" tvg-logo="https://image.tmdb.org/t/p/w400/bukDNap4VXo3KHV9qjCpZeh3v7a.jpg" x-item-type="channel" x-source="m3u", (FR) Gad Elmaleh American Dream (2018)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178671.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Gad Elmaleh - Sans tambour (2014)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bGwifhZ78lhDCJnGlffTHbZ2EEn.jpg" x-item-type="channel" x-source="m3u", (FR) Gad Elmaleh - Sans tambour (2014)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178669.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Gad Elmaleh - Part en Live (2017)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fyI6JwiT79rfI41ql7hfDmCD3uz.jpg" x-item-type="channel" x-source="m3u", (FR) Gad Elmaleh - Part en Live (2017)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178668.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Gad Elmaleh - Papa est en haut (2008)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cffHkXRfOCTKZKedpM6hCICE2NH.jpg" x-item-type="channel" x-source="m3u", (FR) Gad Elmaleh - Papa est en haut (2008)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178666.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Gad Elmaleh - L’autre c’est moi (2005)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uMwrYKBgDrMmOE9oxhwK1UH4k08.jpg" x-item-type="channel" x-source="m3u", (FR) Gad Elmaleh - L’autre c’est moi (2005)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178664.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Gad Elmaleh - Le Big Show (2015)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rHjjk1e9NRU9YCKHJRbswMorTWX.jpg" x-item-type="channel" x-source="m3u", (FR) Gad Elmaleh - Le Big Show (2015)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178662.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Gad Elmaleh - La Vie normale (2001)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9xPGuOZGdn230NnaorC5ydKIVbT.jpg" x-item-type="channel" x-source="m3u", (FR) Gad Elmaleh - La Vie normale (2001)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178660.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Gad Elmaleh - La dernière de Papa est en haut (2011)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/iVeYmeaVF9nkVXeic0aTbNv2mtQ.jpg" x-item-type="channel" x-source="m3u", (FR) Gad Elmaleh - La dernière de Papa est en haut (2011)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178658.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Gad Elmaleh - 20 ans de scène ! (2015)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uxqdKL5D0TgcFBrnPZjSNsBbGRF.jpg" x-item-type="channel" x-source="m3u", (FR) Gad Elmaleh - 20 ans de scène ! (2015)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178657.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Foresti Party (2012)" tvg-logo="https://image.tmdb.org/t/p/w400/xrtJqEPytiFuhWSyWW5lMvED2Du.jpg" x-item-type="channel" x-source="m3u", (FR) Foresti Party (2012)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178655.avi
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Florence Foresti Mother Fucker (2010)" tvg-logo="https://image.tmdb.org/t/p/w400/vHNHv4Lh1Ye0aJZxwKaXSMh4KhU.jpg" x-item-type="channel" x-source="m3u", (FR) Florence Foresti Mother Fucker (2010)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178654.avi
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Florence Foresti fait des sketches à la Cigale (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/42C0VEkZYQOMfGyVMLKQ9N5HSbN.jpg" x-item-type="channel" x-source="m3u", (FR) Florence Foresti fait des sketches à la Cigale (2006)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178653.avi
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Florence Foresti - A tout essayé (2007)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lXulYVJ9ZUKh3fyO2k0Glxi0QZW.jpg" x-item-type="channel" x-source="m3u", (FR) Florence Foresti - A tout essayé (2007)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178652.avi
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Florence Foresti & Friends (2008)" tvg-logo="https://image.tmdb.org/t/p/w400/8AEMpfTHF81C1Twaqem7s7sGiUr.jpg" x-item-type="channel" x-source="m3u", (FR) Florence Foresti & Friends (2008)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178651.avi
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Fabrice Eboue - Plus rien a perdre (2020)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9bF8PDcRuLbk1pzpHZ54yvKPvUs.jpg" x-item-type="channel" x-source="m3u", (FR) Fabrice Eboue - Plus rien a perdre (2020)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178650.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Dave Chappelle The Closer (2021)" tvg-logo="https://image.tmdb.org/t/p/w400/lSK4iExkkVnrA8iPxZwbs8IfnUy.jpg" x-item-type="channel" x-source="m3u", (FR) Dave Chappelle The Closer (2021)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178649.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Dave Chappelle The Age of Spin (2017)" tvg-logo="https://image.tmdb.org/t/p/w400/lFGP9COk4X3sBqrkUpbQ78GdnZm.jpg" x-item-type="channel" x-source="m3u", (FR) Dave Chappelle The Age of Spin (2017)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178648.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Dave Chappelle Sticks & Stones (2019)" tvg-logo="https://image.tmdb.org/t/p/w400/hsyPTPoFDhUw5aGcj7dxAx3i1Qp.jpg" x-item-type="channel" x-source="m3u", (FR) Dave Chappelle Sticks & Stones (2019)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178647.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Dave Chappelle For What It's Worth (2004)" tvg-logo="https://image.tmdb.org/t/p/w400/udpZ1HTMNPS9fi4s6PNY2QLIJqf.jpg" x-item-type="channel" x-source="m3u", (FR) Dave Chappelle For What It's Worth (2004)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178646.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Dave Chappelle Equanimity (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EaNffvPj5uTxRbFcmiTkor1lZW.jpg" x-item-type="channel" x-source="m3u", (FR) Dave Chappelle Equanimity (2017)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178645.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Dave Chappelle Deep in the Heart of Texas (2017)" tvg-logo="https://image.tmdb.org/t/p/w400/jaHuxnzJy616w4Muv2NxZgQ9fUu.jpg" x-item-type="channel" x-source="m3u", (FR) Dave Chappelle Deep in the Heart of Texas (2017)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178644.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Céline Dion Live At Tokyo Dome 2018 (2018)" tvg-logo="https://image.tmdb.org/t/p/w400/y01aGu8oeRbgAnK3gKZb1SvBJZr.jpg" x-item-type="channel" x-source="m3u", (FR) Céline Dion Live At Tokyo Dome 2018 (2018)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178642.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Concert for Africa Vol 1 (1985)" x-item-type="channel" x-source="m3u", (FR) Concert for Africa Vol 1 (1985)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178641.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Coldplay Live in São Paulo (2017)" tvg-logo="https://image.tmdb.org/t/p/w400/2OGLWeUUxx5kNDrJqGvURYvAKQo.jpg" x-item-type="channel" x-source="m3u", (FR) Coldplay Live in São Paulo (2017)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178640.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Coldplay Live from Climate Pledge Arena Full Concert (2021)" tvg-logo="https://image.tmdb.org/t/p/w400/eXYg1myPEqO5kvyS9C0DCFmknUn.jpg" x-item-type="channel" x-source="m3u", (FR) Coldplay Live from Climate Pledge Arena Full Concert (2021)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178639.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Chris Rock Never Scared (2004)" tvg-logo="https://image.tmdb.org/t/p/w400/sQdpQ1KU1OBqi0nCs6TEgwsC2LB.jpg" x-item-type="channel" x-source="m3u", (FR) Chris Rock Never Scared (2004)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178638.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Chris Rock Kill the Messenger (2008)" tvg-logo="https://image.tmdb.org/t/p/w400/cIuIOVRl558GziBkX3GbpsVGaik.jpg" x-item-type="channel" x-source="m3u", (FR) Chris Rock Kill the Messenger (2008)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178637.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Bob Marley The Wailers Live In Concert (1977)" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/uCyoczcdEN24rQRhwuso8qBUzch.jpg" x-item-type="channel" x-source="m3u", (FR) Bob Marley The Wailers Live In Concert (1977)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178636.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Bob Marley Live in Concert (2012)" tvg-logo="https://image.tmdb.org/t/p/w400/8KGJTvaDlpWhKgT6WZYyP0xYv5m.jpg" x-item-type="channel" x-source="m3u", (FR) Bob Marley Live in Concert (2012)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178635.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Amy Winehouse - Back To Black The Real Story Behind The Modern Classic" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/akF10IEslLrHfHR7tsmCWZMq0c3.jpg" x-item-type="channel" x-source="m3u", (FR) Amy Winehouse - Back To Black The Real Story Behind The Modern Classic
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178634.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Amy Winehouse - An Intimate Evening in London (2018)" tvg-logo="https://image.tmdb.org/t/p/w400/zfe7qbyVIlJgGAJs0oBUM5oEXeg.jpg" x-item-type="channel" x-source="m3u", (FR) Amy Winehouse - An Intimate Evening in London (2018)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178633.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Adele One Night Only (2021)" tvg-logo="https://image.tmdb.org/t/p/w400/mVQWbqa1QQujArb5XNR3ad4LnHl.jpg" x-item-type="channel" x-source="m3u", (FR) Adele One Night Only (2021)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/178631.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Laura Laune (Le Diable est une gentille petite fille (2020)" x-item-type="channel" x-source="m3u", (FR) Laura Laune (Le Diable est une gentille petite fille (2020)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186708.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Élodie Arnould  Fécondée (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3PSNTRn8I1OpUyw6bPlxLb8yenC.jpg" x-item-type="channel" x-source="m3u", (FR) Élodie Arnould  Fécondée (2023)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186744.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Arnaud Soly  Stand Up (2023)" tvg-logo="https://image.tmdb.org/t/p/w400/p9mz8TDGb7b8KGmHe0CgECKL7fK.jpg" x-item-type="channel" x-source="m3u", (FR) Arnaud Soly  Stand Up (2023)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186651.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Arnaud Tsamere 2 mariages & 1 enterrement (2024)" tvg-logo="https://image.tmdb.org/t/p/w400/nfNPaLnhPQhMvAixI3KvyT0vKoN.jpg" x-item-type="channel" x-source="m3u", (FR) Arnaud Tsamere 2 mariages & 1 enterrement (2024)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186652.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Camille Lellouche, le spectacle (2021)" tvg-logo="https://image.tmdb.org/t/p/w400/4kjt6wkRMCm3Qmv1yn3eEQXQczC.jpg" x-item-type="channel" x-source="m3u", le spectacle (2021)' group-title='(FR) SPECTACLE HUMOR',(FR) Camille Lellouche, le spectacle (2021)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186656.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Constance Pot-pourri (2018)" tvg-logo="https://image.tmdb.org/t/p/w400/qMNklYjCSjGEwnVsJ8cjSzzd4PE.jpg" x-item-type="channel" x-source="m3u", (FR) Constance Pot-pourri (2018)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186662.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Dave Chappelle: The Bird Revelation (2017)" tvg-logo="https://image.tmdb.org/t/p/w400/3dLJ4kSwnMGlHlR6AxwWqTsKJFs.jpg" x-item-type="channel" x-source="m3u", (FR) Dave Chappelle: The Bird Revelation (2017)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186664.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Drôle de genre (2023)" tvg-logo="https://image.tmdb.org/t/p/w400/6vI20d8poommrhCRK89ld8gwu2H.jpg" x-item-type="channel" x-source="m3u", (FR) Drôle de genre (2023)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186671.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Fabrice Eboué (Levez-vous ! (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Y7nbVjshKaz08NmB7ct4Y08lc.jpg" x-item-type="channel" x-source="m3u", (FR) Fabrice Eboué (Levez-vous ! (2015)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186673.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="François Pirette - Libres Et Ego - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y1rm07f1w1uyPa9qZgR8cUuqpgI.jpg" x-item-type="channel" x-source="m3u", François Pirette - Libres Et Ego - 2003
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186679.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Iris: A Space Opera by Justice (2019)" tvg-logo="https://image.tmdb.org/t/p/w400/tbeIPKPMAAZpkf70lOIPq8Dvdiz.jpg" x-item-type="channel" x-source="m3u", (FR) Iris: A Space Opera by Justice (2019)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186691.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) J'ai envie de toi (2022)" tvg-logo="https://image.tmdb.org/t/p/w400/fkJYOMRVeuAvRd0ZDMnzqVKQ86V.jpg" x-item-type="channel" x-source="m3u", (FR) J'ai envie de toi (2022)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186692.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) La Candidate (2017)" tvg-logo="https://image.tmdb.org/t/p/w400/3p60jikw74DmXk3av7Ibfy3srjJ.jpg" x-item-type="channel" x-source="m3u", (FR) La Candidate (2017)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186706.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Laurie Peret (Spectacle Alimentaire (En attendant la pension) (2023)" tvg-logo="https://image.tmdb.org/t/p/w400/7PCLmZ7TdwFQgC1ALylD7lT392Q.jpg" x-item-type="channel" x-source="m3u", (FR) Laurie Peret (Spectacle Alimentaire (En attendant la pension) (2023)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186709.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Le Diamant rose (1991)" tvg-logo="https://image.tmdb.org/t/p/w400/xbNphslH4flr8vhZURigpUNk60l.jpg" x-item-type="channel" x-source="m3u", (FR) Le Diamant rose (1991)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186712.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Les Bodin's (Grandeur Nature (2006)" tvg-logo="https://image.tmdb.org/t/p/w400/kGteHXtGXgu5Hw9ujb4l4a6jjja.jpg" x-item-type="channel" x-source="m3u", (FR) Les Bodin's (Grandeur Nature (2006)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186715.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Les seigneurs du château (2021)" tvg-logo="https://image.tmdb.org/t/p/w400/cMgbWQXvltP8lr1h7KYXKJw6XOA.jpg" x-item-type="channel" x-source="m3u", (FR) Les seigneurs du château (2021)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186716.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Marina Rollman (Un spectacle drôle (2022)" tvg-logo="https://image.tmdb.org/t/p/w400/m3UtsYyDbYPTqrewC0qNsUVeQXG.jpg" x-item-type="channel" x-source="m3u", (FR) Marina Rollman (Un spectacle drôle (2022)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186719.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Opera (2022)" tvg-logo="https://image.tmdb.org/t/p/w400/xpIIi8zBN26srXbloOBKPcF1XF2.jpg" x-item-type="channel" x-source="m3u", (FR) Opera (2022)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186726.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Panique au ministère (2009)" tvg-logo="https://image.tmdb.org/t/p/w400/9R6gbYCvHMYKKsqOSitasi85hCp.jpg" x-item-type="channel" x-source="m3u", (FR) Panique au ministère (2009)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186728.avi
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Philippe Laprise – Je m'en occupe (2021)" tvg-logo="https://image.tmdb.org/t/p/w400/xmcr5paaybEZG3QwRQWkJN5GUVj.jpg" x-item-type="channel" x-source="m3u", (FR) Philippe Laprise – Je m'en occupe (2021)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186729.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Phil Roy Philou (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcqcxlfazbbjMzEHO3xC0ulUcp.jpg" x-item-type="channel" x-source="m3u", (FR) Phil Roy Philou (2023)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186730.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Queen: Live at Wembley Stadium (1986)" tvg-logo="https://image.tmdb.org/t/p/w400/qztOmfZ8uLPN3MUNHJd8GaJST2V.jpg" x-item-type="channel" x-source="m3u", (FR) Queen: Live at Wembley Stadium (1986)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186731.mp4
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Roman Frayssinet (Alors (2022)" tvg-logo="https://image.tmdb.org/t/p/w400/hRboTnMF47rHe5GMqN8tt7sWD8T.jpg" x-item-type="channel" x-source="m3u", (FR) Roman Frayssinet (Alors (2022)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186733.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Tutu (2023)" tvg-logo="https://image.tmdb.org/t/p/w400/rLK51XDLy30k0z8A2QCJ1GGzDRQ.jpg" x-item-type="channel" x-source="m3u", (FR) Tutu (2023)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186740.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Un couple magique (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p8CI8PyCoBG6WrgBuM8d2Qw7zYP.jpg" x-item-type="channel" x-source="m3u", (FR) Un couple magique (2023)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186741.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Vanessa Fery simples mortels (2022)" tvg-logo="https://image.tmdb.org/t/p/w400/AvxhI3gbdEoJNm0ZmDzKYnS2HZg.jpg" x-item-type="channel" x-source="m3u", (FR) Vanessa Fery simples mortels (2022)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186742.mkv
+#EXTINF:-1 group-title="(FR) SPECTACLE HUMOR" tvg-name="(FR) Virginie Fortin Mes Sentiments (2023)" tvg-logo="https://image.tmdb.org/t/p/w400/VWgnKOIXOgeYymE9Iqk1q20Dgt.jpg" x-item-type="channel" x-source="m3u", (FR) Virginie Fortin Mes Sentiments (2023)
+http://103trkm25.xyz:8080/movie/oguz35gznlr/gznler35oguz/186743.mkv
+#EXTINF:-1 group-title="(FR-S) NETFLIX SERIES" tvg-name="(FR) Black Mirror S1 E1" x-item-type="channel" x-source="m3u", (FR) Black Mirror S1 E1
+http://103trkm25.xyz:8080/series/oguz35gznlr/gznler35oguz/177068.mkv
+#EXTINF:-1 group-title="(FR-S) NETFLIX SERIES" tvg-name="(FR) Black Mirror S1 E2" x-item-type="channel" x-source="m3u", (FR) Black Mirror S1 E2
+http://103trkm25.xyz:8080/series/oguz35gznlr/gznler35oguz/177069.mkv
+#EXTINF:-1 group-title="(FR-S) NETFLIX SERIES" tvg-name="(FR) Black Mirror S1 E3" x-item-type="channel" x-source="m3u", (FR) Black Mirror S1 E3
+http://103trkm25.xyz:8080/series/oguz35gznlr/gznler35oguz/177070.mkv
+#EXTINF:-1 group-title="(FR-S) NETFLIX SERIES" tvg-name="(FR) Black Mirror S2 E1" x-item-type="channel" x-source="m3u", (FR) Black Mirror S2 E1
+http://103trkm25.xyz:8080/series/oguz35gznlr/gznler35oguz/177071.mkv
+#EXTINF:-1 group-title="(FR-S) NETFLIX SERIES" tvg-name="(FR) Black Mirror S2 E2" x-item-type="channel" x-source="m3u", (FR) Black Mirror S2 E2
+http://103trkm25.xyz:8080/series/oguz35gznlr/gznler35oguz/177072.mkv
+#EXTINF:-1 group-title="(FR-S) NETFLIX SERIES" tvg-name="(FR) Black Mirror S2 E3" x-item-type="channel" x-source="m3u", (FR) Black Mirror S2 E3
+http://103trkm25.xyz:8080/series/oguz35gznlr/gznler35oguz/177073.mkv
+#EXTINF:-1 group-title="(FR-S) NETFLIX SERIES" tvg-name="(FR) Black Mirror S3 E1" x-item-type="channel" x-source="m3u", (FR) Black Mirror S3 E1
+http://103trkm25.xyz:8080/series/oguz35gznlr/gznler35oguz/177074.mkv
+#EXTINF:-1 group-title="(FR-S) NETFLIX SERIES" tvg-name="(FR) Black Mirror S3 E2" x-item-type="channel" x-source="m3u", (FR) Black Mirror S3 E2
+http://103trkm25.xyz:8080/series/oguz35gznlr/gznler35oguz/177075.mkv
+#EXTINF:-1 group-title="(FR-S) NETFLIX SERIES" tvg-name="(FR) Black Mirror S3 E3" x-item-type="channel" x-source="m3u", (FR) Black Mirror S3 E3
+http://103trkm25.xyz:8080/series/oguz35gznlr/gznler35oguz/177076.mkv
+#EXTINF:-1 group-title="(FR-S) NETFLIX SERIES" tvg-name="(FR) Black Mirror S3 E4" x-item-type="channel" x-source="m3u", (FR) Black Mirror S3 E4
+http://103trkm25.xyz:8080/series/oguz35gznlr/gznler35oguz/177077.mkv
+#EXTINF:-1 group-title="(FR-S) NETFLIX SERIES" tvg-name="(FR) Black Mirror S3 E5" x-item-type="channel" x-source="m3u", (FR) Black Mirror S3 E5
+http://103trkm25.xyz:8080/series/oguz35gznlr/gznler35oguz/177078.mkv
+#EXTINF:-1 group-title="(FR-S) NETFLIX SERIES" tvg-name="(FR) Black Mirror S3 E6" x-item-type="channel" x-source="m3u", (FR) Black Mirror S3 E6
+http://103trkm25.xyz:8080/series/oguz35gznlr/gznler35oguz/177079.mkv
+#EXTINF:-1 group-title="(FR-S) NETFLIX SERIES" tvg-name="(FR) Black Mirror S3 E7" x-item-type="channel" x-source="m3u", (FR) Black Mirror S3 E7
+http://103trkm25.xyz:8080/series/oguz35gznlr/gznler35oguz/177080.mkv
